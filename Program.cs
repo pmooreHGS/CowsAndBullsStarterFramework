@@ -10,6 +10,8 @@ namespace CowsAndBulls
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Cows and Bulls");
+            Console.ReadLine();
         }
     }
 }
