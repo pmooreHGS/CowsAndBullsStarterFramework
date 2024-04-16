@@ -12,6 +12,19 @@ namespace CowsAndBulls
         {
             Console.WriteLine("Cows and Bulls");
             Console.ReadLine();
+            Console.ReadLine();
+            Console.ReadLine();
+
+
+             Console.WriteLine("Cows and Bulls");
+             Console.WriteLine("Cows and Bulls");
+             Console.WriteLine("Cows and Bulls");
+             Console.WriteLine("Cows and Bulls");
+             Console.WriteLine("Cows and Bulls");
+
+
+
+            Console.ReadLine();
         }
     }
 }
