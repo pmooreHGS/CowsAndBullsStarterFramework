@@ -10,19 +10,7 @@ namespace CowsAndBulls
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Cows and Bulls");
-            Console.ReadLine();
-            Console.ReadLine();
-            Console.ReadLine();
-
-
-             Console.WriteLine("Cows and Bulls");
-             Console.WriteLine("Cows and Bulls");
-             Console.WriteLine("Cows and Bulls");
-             Console.WriteLine("Cows and Bulls");
-             Console.WriteLine("Cows and Bulls");
-
-
+            //Cows and Bulls Starter Framework Code
 
             Console.ReadLine();
         }
